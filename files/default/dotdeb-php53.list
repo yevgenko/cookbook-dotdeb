@@ -1,0 +1,2 @@
+deb http://php53.dotdeb.org stable all
+deb-src http://php53.dotdeb.org stable all
